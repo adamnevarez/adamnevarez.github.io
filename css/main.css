@@ -2,10 +2,25 @@ a {
 	color: red;
 }
 
-div a {
-	color:  green;
-}
-
 div {
 	border: 1px solid black;
+}
+
+li {
+	border: 1px solid black;
+}
+
+/* Classes */
+
+.bio-box {
+	border:  1px solid black;
+}
+
+.bio-box a {
+	color:  green;
+}
+/* IDs */
+
+#exec-bio {
+	background-color: lightgray;
 }
